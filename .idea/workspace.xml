@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9a52273-9da7-4761-b979-0e1bd6ba4134" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Component/LoginPage/LoginPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PYLRU5oo5iLZEyNyIyaMRYIZOV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ducth\Desktop\Project\DATN_Web" />
+      <recent name="C:\Users\ducth\Desktop\Project\DATN_Web\src\ultils" />
+      <recent name="C:\Users\ducth\Desktop\Project\DATN_Web\src\Component\img" />
+      <recent name="C:\Users\ducth\Desktop\Project\DATN_Web\public" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9a52273-9da7-4761-b979-0e1bd6ba4134" name="Default Changelist" comment="" />
+      <created>1683629059858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683629059858</updated>
+      <workItem from="1683629063882" duration="302000" />
+      <workItem from="1683944348599" duration="863000" />
+      <workItem from="1683949682704" duration="2071000" />
+      <workItem from="1683959602612" duration="14086000" />
+      <workItem from="1684164622008" duration="2745000" />
+      <workItem from="1684200647078" duration="20000" />
+      <workItem from="1684208261251" duration="710000" />
+      <workItem from="1684245693171" duration="9708000" />
+      <workItem from="1684286578774" duration="73000" />
+      <workItem from="1684288842545" duration="510000" />
+      <workItem from="1684427585348" duration="5008000" />
+      <workItem from="1684459589155" duration="88000" />
+      <workItem from="1684552108974" duration="910000" />
+      <workItem from="1684553097002" duration="4618000" />
+      <workItem from="1684557784969" duration="1196000" />
+      <workItem from="1684564777291" duration="3194000" />
+      <workItem from="1684684703765" duration="47000" />
+      <workItem from="1684850966652" duration="9734000" />
+      <workItem from="1684892449637" duration="3322000" />
+      <workItem from="1685008266191" duration="164000" />
+    </task>
+    <task id="LOCAL-00001" summary="add react">
+      <created>1683629116570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683629116570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add react" />
+    <option name="LAST_COMMIT_MESSAGE" value="add react" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="824" y="395" key="#ESLint" timestamp="1683944588979">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="824" y="395" key="#ESLint/-1920.674.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1683944588979" />
+    <state x="703" y="351" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1684256583494">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="703" y="351" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1032/1920.0.1536.816@0.0.1920.1032" timestamp="1684256583494" />
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1683629258243">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/-1920.674.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1683629258243" />
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1683964947751">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom/-1920.674.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1683964947751" />
+    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1683964947751">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.center/-1920.674.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1683964947751" />
+    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1683964947751">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.left/-1920.674.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1683964947751" />
+    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1683964947751">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.right/-1920.674.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1683964947751" />
+    <state x="552" y="230" key="Vcs.Push.Dialog.v2" timestamp="1683629119243">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="230" key="Vcs.Push.Dialog.v2/-1920.674.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1683629119243" />
+    <state x="616" y="238" key="run.anything.popup" timestamp="1684853874503">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" key="run.anything.popup/-1920.4.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1684853874503" />
+    <state x="616" y="238" key="run.anything.popup/-1920.674.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1684567561056" />
+    <state x="616" y="238" key="run.anything.popup/0.0.1920.1032/1920.0.1536.816@0.0.1920.1032" timestamp="1684254656609" />
+  </component>
+</project>
